@@ -12,7 +12,7 @@ Supports adding, editing, deleting, toggling, and listing tasks, saved to a JSON
 ## Installation
 Clone the repo and build the binary:
 ```bash
-git clone https://github.com/<yourusername>/todo_app.git
+git clone https://github.com/seroking/todo_app.git
 cd todo_app
 go build -o todo ./cmd/todo
 ```
