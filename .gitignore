@@ -1,0 +1,5 @@
+todos.json
+/bin
+/build
+*.exe
+*.out
